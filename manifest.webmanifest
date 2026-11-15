@@ -1,0 +1,2 @@
+{"name":"Co-op Order Sorter","short_name":"Co-op Sorter","start_url":"./","scope":"./","display":"standalone","background_color":"#f3f6f5","theme_color":"#1f6f66",
+"icons":[{"src":"icon-192.png","sizes":"192x192","type":"image/png"},{"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"},{"src":"icon.svg","sizes":"any","type":"image/svg+xml"}]}
